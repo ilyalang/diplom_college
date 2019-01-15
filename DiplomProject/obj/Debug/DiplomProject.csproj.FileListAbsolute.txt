@@ -1,0 +1,13 @@
+C:\Users\ilyal\source\repos\DiplomProject\DiplomProject\bin\Debug\DiplomProject.exe.config
+C:\Users\ilyal\source\repos\DiplomProject\DiplomProject\bin\Debug\DiplomProject.exe
+C:\Users\ilyal\source\repos\DiplomProject\DiplomProject\bin\Debug\DiplomProject.pdb
+C:\Users\ilyal\source\repos\DiplomProject\DiplomProject\obj\Debug\DiplomProject.csprojAssemblyReference.cache
+C:\Users\ilyal\source\repos\DiplomProject\DiplomProject\obj\Debug\DiplomProject.Form1.resources
+C:\Users\ilyal\source\repos\DiplomProject\DiplomProject\obj\Debug\DiplomProject.Properties.Resources.resources
+C:\Users\ilyal\source\repos\DiplomProject\DiplomProject\obj\Debug\DiplomProject.csproj.GenerateResource.cache
+C:\Users\ilyal\source\repos\DiplomProject\DiplomProject\obj\Debug\DiplomProject.csproj.CoreCompileInputs.cache
+C:\Users\ilyal\source\repos\DiplomProject\DiplomProject\obj\Debug\DiplomProject.exe
+C:\Users\ilyal\source\repos\DiplomProject\DiplomProject\obj\Debug\DiplomProject.pdb
+C:\Users\ilyal\source\repos\DiplomProject\DiplomProject\obj\Debug\DiplomProject.Form2.resources
+C:\Users\ilyal\source\repos\DiplomProject\DiplomProject\obj\Debug\DiplomProject.Form3.resources
+C:\Users\ilyal\source\repos\DiplomProject\DiplomProject\obj\Debug\DiplomProject.Form4.resources
